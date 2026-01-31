@@ -1,4 +1,13 @@
-# tiged changelog
+# @beenotung/tiged changelog
+
+## 2.12.8
+
+- Forked from [tiged/tiged](https://github.com/tiged/tiged) and published to npm as [`@beenotung/tiged`](https://www.npmjs.com/package/@beenotung/tiged)
+- patch: update tar to fix Vulnerable warning ([#140](https://github.com/tiged/tiged/pull/140))
+
+---
+
+_The following changelog is from the upstream [tiged](https://github.com/tiged/tiged) project:_
 
 ## 3.0.0
 
