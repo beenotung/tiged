@@ -1,5 +1,5 @@
 {
-  "name": "tiged",
+  "name": "@beenotung/tiged",
   "version": "2.12.7",
   "engines": {
     "node": ">=18.0.0"
@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiged/tiged.git"
+    "url": "git+https://github.com/beenotung/tiged.git"
   },
   "keywords": [
     "scaffolding",
@@ -58,9 +58,9 @@
   "author": "tiged",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiged/tiged/issues"
+    "url": "https://github.com/beenotung/tiged/issues"
   },
-  "homepage": "https://github.com/tiged/tiged#readme",
+  "homepage": "https://github.com/beenotung/tiged#readme",
   "dependencies": {
     "enquirer": "^2.4.1",
     "fuzzysearch": "^1.0.3",
@@ -94,8 +94,7 @@
     "help.md"
   ],
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
